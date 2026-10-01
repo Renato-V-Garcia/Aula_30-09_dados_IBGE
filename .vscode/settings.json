@@ -1,9 +1,0 @@
-{
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.executorMap": {
-        "python": "& \"$workspaceRoot/venv/Scripts/python.exe\" -u $fullFileName"
-    },
-    "terminal.integrated.defaultProfile.windows": "PowerShell"
-}
